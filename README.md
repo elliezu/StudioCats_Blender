@@ -1,8 +1,8 @@
 # StudioCats Blender Tools
 
-A collection of Blender addons developed by **elliezu (StudioCats)** for VRChat avatar clothing/accessory production workflows.
+블렌더용 애드온 모음입니다.
 
-블렌더용 애드온 모음입니다. VRChat 아바타용 의상 및 액세서리 제작 워크플로우에 사용됩니다.
+A collection of Blender addons by **elliezu (StudioCats)**.
 
 ---
 
@@ -36,5 +36,5 @@ Issues, Pull Requests 환영합니다.
 
 ## Author
 
-- **elliezu (StudioCats)** — [Booth Store](https://booth.pm/) | VRChat 의상 크리에이터
+- **elliezu (StudioCats)**
 - Co-developed with Claude (Anthropic)

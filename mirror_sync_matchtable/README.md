@@ -108,7 +108,7 @@ Build a **vertex pair match table** once while the mesh is perfectly symmetric, 
 
 ## Author
 
-- **elliezu (StudioCats)** — VRChat clothing creator on [Booth](https://booth.pm/)
+- **elliezu (StudioCats)**
 - Co-developed with Claude (Anthropic)
 
 ## License

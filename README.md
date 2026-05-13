@@ -37,4 +37,3 @@ Issues, Pull Requests 환영합니다.
 ## Author
 
 - **elliezu (StudioCats)**
-- Co-developed with Claude (Anthropic)

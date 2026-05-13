@@ -109,7 +109,6 @@ Build a **vertex pair match table** once while the mesh is perfectly symmetric, 
 ## Author
 
 - **elliezu (StudioCats)**
-- Co-developed with Claude (Anthropic)
 
 ## License
 

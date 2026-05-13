@@ -11,7 +11,6 @@ A collection of Blender addons by **elliezu (StudioCats)**.
 | Addon | Description | Version |
 |---|---|---|
 | [Mirror Sync by Match Table](./mirror_sync_matchtable) | UV를 손상시키지 않으면서 까다로운 메쉬에서 완벽한 미러 편집을 가능하게 합니다 | 1.0.0 |
-| [Selected Edge to Bone](./selected_edge_to_bone) | 선택한 엣지 루프에서 본을 생성합니다. 미러, 부모 지정, 스포이드 픽업 기능 포함 | 1.0.2 |
 
 ---
 
